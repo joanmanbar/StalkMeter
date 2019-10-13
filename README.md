@@ -5,7 +5,9 @@ Simulate_SMD.R simulates the type of data generated from the stalk meter; Stems_
 
 
 Please contact for any questions regarding the scripts.
+
 Joan M. Barreto Ortiz
+
 jmbarretoo@gmail.com | jbarreto@umn.edu 
 
 
